@@ -5,7 +5,7 @@
   "dependencies": {
   },
   "devDependencies": {
-    "ecstatic": "^0.5.1",
+    "ecstatic": "~>2.0.0",
     "gulp": "~3.5.2",
     "gulp-autoprefixer": "0.0.6",
     "gulp-filesize": "0.0.6",
